@@ -6,12 +6,12 @@
 /*   By: mde-alme < mde-alme@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/29 19:30:54 by mde-alme          #+#    #+#             */
-/*   Updated: 2022/01/29 19:49:49 by mde-alme         ###   ########.fr       */
+/*   Updated: 2022/01/29 23:00:11 by mde-alme         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 int	main(void)
 {
-	prinft("Hello");
+	printf("Hello");
 	return (0);
 }
